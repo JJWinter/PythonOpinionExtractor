@@ -1,0 +1,9 @@
+--- Sentence: It has an excessively dull plot . ---
+1	It	PRP	2	nsubj
+2	has	VBZ	0	root
+3	an	DT	6	det
+4	excessively	RB	5	advmod
+5	dull	JJ	6	amod
+6	plot	NN	2	dobj
+7	.	.	2	punct
+Opinions: ['excessively-dull']
